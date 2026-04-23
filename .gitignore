@@ -1,0 +1,7 @@
+.vscode/
+
+.venv/
+
+outputs/irrigation_submission.csv
+
+prevReport.md
