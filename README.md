@@ -104,6 +104,8 @@ weighted avg    1.00      1.00      1.00    630000
     - After tuning, it gave the highest cross-validation balanced accuracy (~98%).
     - The depth constraint prevents memorisation while still capturing important non‑linear relationships.
     - It outperformed K-Means, Logistic Regression and Naïve Bayes by a comfortable margin.
+  - **Models Comparison**:
+  ![Image of models Comparison](demo/model_performance_comparison.png)
 
 ---
 
